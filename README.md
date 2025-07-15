@@ -8,7 +8,7 @@ Flutter plugin supports to run on two screens. It's basically a tablet connected
  ```yaml
   presentation_displays: 
     git:
-      url: https://github.com/SHEBINKUNIYIL/presentation-displays.git
+      url: https://github.com/smlsoft/presentation-displays.git
       ref: master
 ```
 
